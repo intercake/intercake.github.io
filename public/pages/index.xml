@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on blog.olly.gg</title>
-    <link>https://intercake.github.io/pages/</link>
+    <link>https://blog.olly.gg/pages/</link>
     <description>Recent content in Pages on blog.olly.gg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://intercake.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://blog.olly.gg/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://intercake.github.io/pages/about/</link>
+      <link>https://blog.olly.gg/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://intercake.github.io/pages/about/</guid>
+      <guid>https://blog.olly.gg/pages/about/</guid>
       
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
