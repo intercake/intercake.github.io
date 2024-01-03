@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.olly.gg/</loc>
+    <loc>https://intercake.github.io/</loc>
+    <lastmod>2023-10-26T06:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/posts/test-article/test-article/</loc>
+    <lastmod>2023-10-26T06:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/posts/</loc>
+    <lastmod>2023-10-26T06:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/posts/table-of-content/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/posts/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.olly.gg/posts/table-of-content/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.olly.gg/posts/math-typesetting/</loc>
+    <loc>https://intercake.github.io/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/posts/markdown-syntax/</loc>
+    <loc>https://intercake.github.io/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/posts/rich-content/</loc>
+    <loc>https://intercake.github.io/posts/rich-content/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/posts/placeholder-text/</loc>
+    <loc>https://intercake.github.io/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/tags/emoji/</loc>
+    <loc>https://intercake.github.io/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/posts/emoji-support/</loc>
+    <loc>https://intercake.github.io/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/tags/</loc>
+    <loc>https://intercake.github.io/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.olly.gg/pages/about/</loc>
+    <loc>https://intercake.github.io/pages/about/</loc>
   </url><url>
-    <loc>https://blog.olly.gg/categories/</loc>
+    <loc>https://intercake.github.io/categories/</loc>
   </url><url>
-    <loc>https://blog.olly.gg/pages/</loc>
+    <loc>https://intercake.github.io/pages/</loc>
   </url>
 </urlset>

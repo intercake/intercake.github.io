@@ -1,5 +1,5 @@
 title = "blog.olly.gg"
-baseURL = "https://blog.olly.gg"
+baseURL = "https://intercake.github.io"
 themesDir = "themes/"
 # This is what goes in <html lang="">
 languageCode = 'en-gb'
@@ -84,9 +84,9 @@ disqusShortname = ''
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "welcome to olly.gg"
-  name = "olly.gg"
-  description = "A technology blog with focus on Cyber Defense, Threat Intelligence, Retro Computers & Gaming"
+  intro = "blog.olly.gg"
+  name = "blog.olly.gg"
+  description = "A technology blog with focus on cyber, threat, computers and games"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -104,10 +104,6 @@ disqusShortname = ''
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/intercake"
-
-# [[params.socialIcons]]
-# name = "twitter"
-# url = "https://twitter.com"
 
 [[params.socialIcons]]
 name = "linkedin"
