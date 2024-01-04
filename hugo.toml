@@ -86,7 +86,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "blog.olly.gg"
   name = "blog.olly.gg"
-  description = "A technology blog with focus on cyber, threat, computers and games"
+  description = "A technology blog with focus on cyber, threat research, detection engineering, computers and games"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -107,4 +107,4 @@ url = "https://github.com/intercake"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com"
+url = "https://linkedin.com/opx"

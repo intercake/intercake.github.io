@@ -6,22 +6,7 @@
     <description>Recent content in Posts on blog.olly.gg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 26 Oct 2023 06:30:00 -0500</lastBuildDate><atom:link href="https://intercake.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Article</title>
-      <link>https://intercake.github.io/posts/test-article/test-article/</link>
-      <pubDate>Thu, 26 Oct 2023 06:30:00 -0500</pubDate>
-      
-      <guid>https://intercake.github.io/posts/test-article/test-article/</guid>
-      
-      <description>Did this work?
-Inline code Get-Help.
-Cmdlet name Get-Help.
-Parameter name ParameterName.
-Parameter value $true.</description>
-      
-    </item>
-    
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table of content</title>
       <link>https://intercake.github.io/posts/table-of-content/</link>
@@ -90,6 +75,23 @@ Enable table of content on all posts To enable ToC on all posts (globally) set p
       <guid>https://intercake.github.io/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cyber Update 3rd Jan 2024</title>
+      <link>https://intercake.github.io/posts/ti-4-1-24/threat-update-4-1-24/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/posts/ti-4-1-24/threat-update-4-1-24/</guid>
+      
+      <description>Did this work?
+*It seems so.
+So, here&amp;rsquo;s a couple of interesting articles and outcomes from today (4/1/24)
+Mandiant (Google) seem to have lost control of their Twitter/X - Not ideal
+CrowdStrike give an example of Defender scan logs being useful - Brief article here
+I will be providing an example in Splunk in the coming days on ingesting and triaging that data
+Excellent article by Purple Team, which is a new resource to me personally.</description>
       
     </item>
     
