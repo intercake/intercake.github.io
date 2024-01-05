@@ -69,3 +69,22 @@ Current configuration:
  - DNS lookup:                    disabled
 ```
 
+```sysmon
+[WinEventLog://Microsoft-Windows-Sysmon/Operational]
+disabled = false
+renderXml = 1
+source = XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
+index=hafnium_ghosttask
+```
+
+```serverclass
+[serverClass:splunk-content-hafnium-ghosttask:app:splunk_ingest_actions]
+restartSplunkWeb = 0
+restartSplunkd = 0
+stateOnClient = enabled
+
+[serverClass:splunk-content-hafnium-ghosttask:app:Splunk_TA_microsoft_sysmon]
+restartSplunkWeb = 0
+restartSplunkd = 0
+stateOnClient = enabled
+```
