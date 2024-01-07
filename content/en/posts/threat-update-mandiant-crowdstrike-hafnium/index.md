@@ -1,5 +1,5 @@
 ---
-title: "Cyber Update 3rd Jan 2024"
+title: "Cyber Interest - W1`` Jan 2024"
 date: 2024-01-03
 #toc: false
 tags:

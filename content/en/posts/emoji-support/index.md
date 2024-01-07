@@ -1,5 +1,5 @@
 ---
-title: Emoji Support
+title: Stock -Emoji Support
 date: 2023-02-01
 author: Hugo Authors
 description: Guide to emoji usage in Hugo
