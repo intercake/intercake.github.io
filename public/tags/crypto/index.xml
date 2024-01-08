@@ -6,21 +6,20 @@
     <description>Recent content in crypto on blog.olly.gg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyber Update 3rd Jan 2024</title>
+      <title>Cyber Interest - Jan 2024</title>
       <link>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</guid>
       
       <description>Did this work?
-*It seems so.
-So, here&amp;rsquo;s a couple of interesting articles and outcomes from today (4/1/24)
-Mandiant (Google) seem to have lost control of their Twitter/X - Not ideal
-CrowdStrike give an example of Defender scan logs being useful - Brief article here
-I will be providing an example in Splunk in the coming days on ingesting and triaging that data
-Excellent article by Purple Team, which is a new resource to me personally.</description>
+It seems so.
+So, here&amp;rsquo;s a couple of interesting articles and outcomes from January 24, this page will be updated as the month progresses
+Microsoft Defender MP Scan Logs Used for DFIR (3rd Jan 2024) CrowdStrike give an example of Defender scan logs being useful - Brief here
+I will be providing an example in Splunk in the coming days on ingesting and triaging this telemetry
+Scheduled Task Tampering by Chinese APT Hafnium (3rd Jan 2024) Excellent article by Purple Team, which is a new resource to me personally.</description>
       
     </item>
     

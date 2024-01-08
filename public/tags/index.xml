@@ -6,55 +6,11 @@
     <description>Recent content in Tags on blog.olly.gg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>emoji</title>
-      <link>https://intercake.github.io/tags/emoji/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/emoji/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>crowdstrike</title>
-      <link>https://intercake.github.io/tags/crowdstrike/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/crowdstrike/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>crypto</title>
-      <link>https://intercake.github.io/tags/crypto/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/crypto/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>defender</title>
-      <link>https://intercake.github.io/tags/defender/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/defender/</guid>
-      
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hafnium</title>
       <link>https://intercake.github.io/tags/hafnium/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/hafnium/</guid>
       
@@ -63,31 +19,9 @@
     </item>
     
     <item>
-      <title>mandiant</title>
-      <link>https://intercake.github.io/tags/mandiant/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/mandiant/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>mde</title>
-      <link>https://intercake.github.io/tags/mde/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/tags/mde/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>mitre</title>
       <link>https://intercake.github.io/tags/mitre/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/mitre/</guid>
       
@@ -98,7 +32,7 @@
     <item>
       <title>purpleteam</title>
       <link>https://intercake.github.io/tags/purpleteam/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/purpleteam/</guid>
       
@@ -109,7 +43,7 @@
     <item>
       <title>registry</title>
       <link>https://intercake.github.io/tags/registry/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/registry/</guid>
       
@@ -120,7 +54,7 @@
     <item>
       <title>scheduledtask</title>
       <link>https://intercake.github.io/tags/scheduledtask/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/scheduledtask/</guid>
       
@@ -131,7 +65,7 @@
     <item>
       <title>splunk</title>
       <link>https://intercake.github.io/tags/splunk/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/splunk/</guid>
       
@@ -142,9 +76,97 @@
     <item>
       <title>sysmon</title>
       <link>https://intercake.github.io/tags/sysmon/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/tags/sysmon/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>T1053</title>
+      <link>https://intercake.github.io/tags/t1053/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/t1053/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>T1053.005</title>
+      <link>https://intercake.github.io/tags/t1053.005/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/t1053.005/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>crowdstrike</title>
+      <link>https://intercake.github.io/tags/crowdstrike/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/crowdstrike/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://intercake.github.io/tags/crypto/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/crypto/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>defender</title>
+      <link>https://intercake.github.io/tags/defender/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/defender/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>mandiant</title>
+      <link>https://intercake.github.io/tags/mandiant/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/mandiant/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>mde</title>
+      <link>https://intercake.github.io/tags/mde/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/mde/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://intercake.github.io/tags/emoji/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/tags/emoji/</guid>
       
       <description></description>
       

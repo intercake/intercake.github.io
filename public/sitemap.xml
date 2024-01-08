@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://intercake.github.io/tags/hafnium/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://intercake.github.io/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/mitre/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intercake.github.io/posts/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/purpleteam/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/registry/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/scheduledtask/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/splunk/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/posts/splunk-content-hafnium-ghosttask/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/sysmon/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/t1053/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/t1053.005/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/crowdstrike/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/crypto/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/defender/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/mandiant/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intercake.github.io/tags/mde/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intercake.github.io/posts/table-of-content/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intercake.github.io/posts/math-typesetting/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://intercake.github.io/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/posts/rich-content/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/posts/placeholder-text/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intercake.github.io/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intercake.github.io/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/crowdstrike/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/crypto/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/defender/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/hafnium/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/mandiant/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/mde/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/mitre/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/purpleteam/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/registry/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/scheduledtask/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/splunk/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intercake.github.io/tags/sysmon/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intercake.github.io/pages/about/</loc>
   </url><url>

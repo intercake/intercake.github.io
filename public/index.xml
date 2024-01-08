@@ -6,7 +6,35 @@
     <description>Recent content in Home on blog.olly.gg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intercake.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Splunk Analysis - Hafnium GhostTask Scheduled Task Tampering</title>
+      <link>https://intercake.github.io/posts/splunk-content-hafnium-ghosttask/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/posts/splunk-content-hafnium-ghosttask/</guid>
+      
+      <description>Objectives Deploy a suitable Sysmon configuration to record registry change telemetry Collect and analyse registry change telemetry Utilise tooling to ensure TTP data is suitable for Detection Engineering Summary Excellent article by Purple Team, which is a new resource to me personally. This article is on Scheduled Task Tampering by Chinese APT HAFNIUM through registry modification MITR
+Requirements Deploy Sysmon Create a suitable Sysmon collection policy Collect date with custom Splunk app Generate telemetry with Ghosttask Analyse registry logs and consider detection mechanics Resources Sysmon 15</description>
+      
+    </item>
+    
+    <item>
+      <title>Cyber Interest - Jan 2024</title>
+      <link>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</guid>
+      
+      <description>Did this work?
+It seems so.
+So, here&amp;rsquo;s a couple of interesting articles and outcomes from January 24, this page will be updated as the month progresses
+Microsoft Defender MP Scan Logs Used for DFIR (3rd Jan 2024) CrowdStrike give an example of Defender scan logs being useful - Brief here
+I will be providing an example in Splunk in the coming days on ingesting and triaging this telemetry
+Scheduled Task Tampering by Chinese APT Hafnium (3rd Jan 2024) Excellent article by Purple Team, which is a new resource to me personally.</description>
+      
+    </item>
+    
     <item>
       <title>Table of content</title>
       <link>https://intercake.github.io/posts/table-of-content/</link>
@@ -23,18 +51,6 @@ Enable table of content on all posts To enable ToC on all posts (globally) set p
     </item>
     
     <item>
-      <title>Math Typesetting - use Mathematical notation in blog posts</title>
-      <link>https://intercake.github.io/posts/math-typesetting/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/posts/math-typesetting/</guid>
-      
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
-&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://intercake.github.io/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
@@ -46,29 +62,7 @@ Enable table of content on all posts To enable ToC on all posts (globally) set p
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://intercake.github.io/posts/rich-content/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/posts/rich-content/</guid>
-      
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://intercake.github.io/posts/placeholder-text/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/posts/placeholder-text/</guid>
-      
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
+      <title>Stock -Emoji Support</title>
       <link>https://intercake.github.io/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -79,30 +73,14 @@ Enable table of content on all posts To enable ToC on all posts (globally) set p
     </item>
     
     <item>
-      <title>Cyber Update 3rd Jan 2024</title>
-      <link>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intercake.github.io/posts/threat-update-mandiant-crowdstrike-hafnium/</guid>
-      
-      <description>Did this work?
-*It seems so.
-So, here&amp;rsquo;s a couple of interesting articles and outcomes from today (4/1/24)
-Mandiant (Google) seem to have lost control of their Twitter/X - Not ideal
-CrowdStrike give an example of Defender scan logs being useful - Brief article here
-I will be providing an example in Splunk in the coming days on ingesting and triaging that data
-Excellent article by Purple Team, which is a new resource to me personally.</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://intercake.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://intercake.github.io/pages/about/</guid>
       
-      <description>A simple blog to capture things of interest and small projects. Primarily for personal use, but if you find anything of value then fantastic.</description>
+      <description>A simple blog to capture things of interest and small projects.
+Primarily for personal use, but if you find anything of value then fantastic.</description>
       
     </item>
     
