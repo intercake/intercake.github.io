@@ -1,5 +1,5 @@
 ---
-title: "Splunk Analysis - Hafnium Ghost Task Scheduled Task Tampering"
+title: "Splunk Analysis - Hafnium GhostTask Scheduled Task Tampering"
 date: 2024-01-05
 tags:
   - splunk
@@ -9,6 +9,8 @@ tags:
   - registry
   - scheduledtask
   - mitre
+  - T1053.005
+  - T1053
 ---
 
 ### Objectives
@@ -19,7 +21,8 @@ tags:
 
 ### Summary
 
-Excellent article by [Purple Team](https://ipurple.team/2024/01/03/scheduled-task-tampering/), which is a new resource to me personally. This article is on Scheduled Task Tampering by Chinese APT [HAFNIUM](https://malpedia.caad.fkie.fraunhofer.de/actor/hafnium) through registry modification  
+Excellent article by [Purple Team](https://ipurple.team/2024/01/03/scheduled-task-tampering/), which is a new resource to me personally. This article is on Scheduled Task Tampering by Chinese APT [HAFNIUM](https://malpedia.caad.fkie.fraunhofer.de/actor/hafnium) through registry modification
+MITR
 
 ### Requirements
 
@@ -32,9 +35,10 @@ Excellent article by [Purple Team](https://ipurple.team/2024/01/03/scheduled-tas
 
 ### Resources
 
-[Sysmon 15](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-[Splunk Universal Forwarder 9.1.2]("https://download.splunk.com/products/universalforwarder/releases/9.1.2/windows/splunkforwarder-9.1.2-b6b9c8185839-x64-release.msi")
-[Olaf Hartong Sysmon Modular]
+[Sysmon 15](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
+[Splunk Universal Forwarder 9.1.2]("https://download.splunk.com/products/universalforwarder/releases/9.1.2/windows/splunkforwarder-9.1.2-b6b9c8185839-x64-release.msi")  
+[Olaf Hartong Sysmon Modular](https://github.com/olafhartong/sysmon-modular)  
+[Mitre ATT&CK Defense Evasion (TA003) Scheduled Task (T1053.005)](https://attack.mitre.org/techniques/T1053/005/)
 
 ### Installing Sysmon
 
