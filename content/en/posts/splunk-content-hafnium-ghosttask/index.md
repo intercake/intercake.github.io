@@ -26,7 +26,7 @@ MITR
 
 ### Requirements
 
-* Deploy Sysmon - [Test link - View my guide here](/intercake.github.io/content/en/posts/table-of-content/index.md)
+* Deploy Sysmon - [Test link - View my guide here](/intercake.github.io/posts/table-of-content/)
 * Create a suitable Sysmon collection policy
 * Collect date with custom Splunk app
 * Generate telemetry with Ghosttask
