@@ -1,0 +1,36 @@
+site_name: Exploration & Cyber Adventures
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Malware Analysis Zero to Hero:
+      - Overview: malware/overview.md
+      - Analysis Environment: malware/environment.md
+      - Tooling Choices: malware/tooling.md
+      - Static Analysis Basics: malware/static-basics.md
+      - Dynamic Analysis Basics: malware/dynamic-basics.md
