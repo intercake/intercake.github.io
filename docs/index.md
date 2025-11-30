@@ -1,4 +1,4 @@
-# Olly.gg
+# olly.gg
 
 This site is mostly a collection of personal notes, things I’ve learned, things I’m exploring, and things I don’t want to forget.  
 
