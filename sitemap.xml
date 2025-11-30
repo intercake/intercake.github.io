@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://olly.gg/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/ai/ai-tools/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/ai/aspirations/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/malware/dynamic-basics/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/malware/environment/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/malware/overview/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/malware/static-basics/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
+    <url>
+         <loc>https://olly.gg/malware/tooling/</loc>
+         <lastmod>2025-11-30</lastmod>
+    </url>
 </urlset>
