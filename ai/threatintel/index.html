@@ -8,8 +8,10 @@
       
       
       
-        <link rel="canonical" href="https://olly.gg/ai/aspirations/">
+        <link rel="canonical" href="https://olly.gg/ai/threatintel/">
       
+      
+        <link rel="prev" href="../overview/">
       
       
       
@@ -21,7 +23,7 @@
     
     
       
-        <title>Overview - Exploration & Cyber Adventures</title>
+        <title>Threat Intel RAG - Exploration & Cyber Adventures</title>
       
     
     
@@ -72,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#overview" class="md-skip">
+        <a href="#threat-intel-ai-adventures" class="md-skip">
           Skip to content
         </a>
       
@@ -108,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Overview
+              Threat Intel RAG
             
           </span>
         </div>
@@ -440,6 +442,128 @@
   
 
     
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Projects
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AI Projects
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Threat Intel RAG
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -475,8 +599,11 @@
 
 
 
-<h1 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h1>
-<p>This section will introduce malware analysis fundamentals.</p>
+<h1 id="threat-intel-ai-adventures">Threat Intel AI Adventures<a class="headerlink" href="#threat-intel-ai-adventures" title="Permanent link">&para;</a></h1>
+<p>Using a custom Python RAG script, Ollama and Qdrant to ingest then spit out some contextualised responses to simple queries.</p>
+<p>Over the past few sessions, I built a fully local, zero-cost threat-intelligence assistant using open-source tooling. The system combines Ollama for embeddings and language models with Qdrant as a high-performance vector store, allowing natural-language search across cyber-threat documents. It supports ingestion, chunking, semantic search, and retrieval-augmented generation (RAG), all running entirely in my homelab environment.</p>
+<p>The result is a lightweight but powerful threat-intel capability: I can query APT groups, TTPs, malware behaviour, and other security topics and get context-aware answers grounded in my own corpus of reports. Everything runs offline, uses free tooling, and is fully under my control. A practical foundation for an AI-assisted SOC workflow, CTI analysis, or automated threat-hunting assistant.</p>
+<p>I don't expect to get these to a highly functional (or stable) standard, but more understand the concepts and integration opportunities.</p>
 
 
 
