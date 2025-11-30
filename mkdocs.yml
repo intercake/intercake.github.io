@@ -1,4 +1,5 @@
 site_name: Exploration & Cyber Adventures
+site_url: https://olly.gg
 theme:
   name: material
   palette:
@@ -34,3 +35,5 @@ nav:
       - Tooling Choices: malware/tooling.md
       - Static Analysis Basics: malware/static-basics.md
       - Dynamic Analysis Basics: malware/dynamic-basics.md
+extra:
+  canonical_url: https://olly.gg
